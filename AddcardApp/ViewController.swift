@@ -161,3 +161,26 @@ class ViewController: UIViewController {
 
 }
 
+
+//
+//extension ViewController : UISearchBarDelegate{
+//
+//    func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String){
+//
+//        self.SearchMusicList = self.musicData?.filter({(myMusic) -> Bool in
+//            myMusic.song.lowercased().hasPrefix(searchText.lowercased())
+//        })
+//
+//        if self.SearchMusicList!.count > 0 {
+//            self.isSearch = true
+//            self.tableView.reloadData()
+//        }else{
+//            self.isSearch = false
+//            self.tableView.reloadData()
+//        }
+//
+//    }
+//
+//
+//}
+//
