@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++821",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B3024608-8D57-4FDE-B3D2-1A9A04B83239",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : "Workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AddcardApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Challenges\/iosProofs\/AddcardApp\/AddcardApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZylogSystems\/FieldPowerCloud",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++821"
+    }
+  ]
+}
